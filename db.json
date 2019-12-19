@@ -1,14 +1,47 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+[
+  {
+    "userId": 1,
+    "id": 1,
+    "title": "PYTHON PROGRAMMING",
+    "ratings": 3,
+    "author": "Ryan Turner",
+    "publisher": "Tony Smith, 2001",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/41wiMcr3iYL._SX326_BO1,204,203,200_.jpg"
+  },
+  {
+    "userId": 1,
+    "id": 2,
+    "title": "SERSIOUS PYTHON",
+    "ratings": 2,
+    "author": "Julien Danjou",
+    "publisher": "Addison-Wesley, 2000",
+    "image": "https://i.pinimg.com/564x/b3/3e/96/b33e96c2e7fb2b12d3b82e19b4c07f17.jpg"
+  },
+  {
+    "userId": 1,
+    "id": 3,
+    "title": "An Introduction to Java Programming",
+    "ratings": 4,
+    "author": "Y. Daniel Liang",
+    "publisher": "Que E & T, 1998",
+    "image": "https://i.ebayimg.com/images/g/i5QAAOSwwbdWH0wo/s-l300.jpg"
+  },
+  {
+    "userId": 1,
+    "id": 4,
+    "title": "Home Cooking",
+    "ratings": 4,
+    "author": "Gordon Ramsay",
+    "publisher": "David Lee, 2014",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/91%2BwwPKKfpL.jpg"
+  },
+  {
+    "userId": 1,
+    "id": 5,
+    "title": "The Entertainment Industry",
+    "ratings": 5,
+    "author": "Michael John Haupert",
+    "publisher": "Greenwood Publishing Group, 2006",
+    "image": "https://dictionary.cambridge.org/images/thumb/book_noun_001_01679.jpg"
   }
-}
+]
